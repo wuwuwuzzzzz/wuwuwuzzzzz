@@ -4,7 +4,8 @@
 I love to talk on trending ⚡ technology ⚡, stay hungry stay foolish.
 
 - 🚀 I use daily:
-  [![JavaScript](https://img.shields.io/badge/JavaScript-000000?logo=JavaScript&logoColor=FFCA28)](https://blog.i-xiao.space/)
+  [![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white)](https://wuxingzzz.top/)
+  [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)](https://blog.i-xiao.space/)
   [![Vue](https://img.shields.io/badge/Vue.js-35495E?logo=vue.js&logoColor=4FC08D)](https://blog.i-xiao.space/)
   [![Git](https://img.shields.io/badge/-Git-000000?logo=git&logoColor=FF7043)](https://blog.i-xiao.space/)
   [![Shell](https://img.shields.io/badge/-Shell-4EC422?logo=Shell&logoColor=FF7043)](https://blog.i-xiao.space/)
