@@ -5,6 +5,7 @@ I love to talk on trending ⚡ technology ⚡, stay hungry stay foolish.
 
 - 🚀 I use daily:
   [![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white)](https://wuxingzzz.top/)
+  [![Spring](https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white)](https://wuxingzzz.top/)
   [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)](https://blog.i-xiao.space/)
   [![Vue](https://img.shields.io/badge/Vue.js-35495E?logo=vue.js&logoColor=4FC08D)](https://blog.i-xiao.space/)
   [![Git](https://img.shields.io/badge/-Git-000000?logo=git&logoColor=FF7043)](https://blog.i-xiao.space/)
@@ -14,7 +15,7 @@ I love to talk on trending ⚡ technology ⚡, stay hungry stay foolish.
   [![NPM](https://img.shields.io/badge/-NPM-2875E3?logo=npm&logoColor=029137)](https://blog.i-xiao.space/)
   [![Postman](https://img.shields.io/badge/-Postman-7A1FA2?logo=postman&logoColor=FC8019)](https://blog.i-xiao.space/)
   [![Docker](https://img.shields.io/badge/docker-20232A?logo=docker&logoColor=61DAFB)](https://blog.i-xiao.space/)
-  [![Jenkins](https://img.shields.io/badge/-Jenkins-F6C915?logo=jenkins&logoColor=F16061)](https://blog.i-xiao.space/)
+  [![MySQL](https://img.shields.io/badge/MySQL-005C84?logo=mysql&logoColor=white)](https://wuxingzzz.top/)
 
 - 💻 I work using:
   [![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)](https://blog.i-xiao.space/)
