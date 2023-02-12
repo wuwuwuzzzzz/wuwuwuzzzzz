@@ -11,10 +11,8 @@ I love to talk on trending ⚡ technology ⚡, stay hungry stay foolish.
   [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)](https://wuxingzzz.top/)
   [![Vue](https://img.shields.io/badge/Vue.js-35495E?logo=vue.js&logoColor=4FC08D)](https://wuxingzzz.top/)
   [![Git](https://img.shields.io/badge/-Git-000000?logo=git&logoColor=FF7043)](https://wuxingzzz.top/)
-  [![Shell](https://img.shields.io/badge/-Shell-4EC422?logo=Shell&logoColor=FF7043)](https://wuxingzzz.top/)
   [![Nginx](https://img.shields.io/badge/-Nginx-F6C915?logo=nginx&logoColor=029137)](https://wuxingzzz.top/)
   [![NPM](https://img.shields.io/badge/-NPM-2875E3?logo=npm&logoColor=029137)](https://wuxingzzz.top/)
-  [![Postman](https://img.shields.io/badge/-Postman-7A1FA2?logo=postman&logoColor=FC8019)](https://wuxingzzz.top/)
   [![MySQL](https://img.shields.io/badge/MySQL-005C84?logo=mysql&logoColor=white)](https://wuxingzzz.top/)
 
 - 💻 I work using:
@@ -23,7 +21,6 @@ I love to talk on trending ⚡ technology ⚡, stay hungry stay foolish.
   [![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)](https://wuxingzzz.top/)
   [![Gitee](https://img.shields.io/badge/-Gitee-A80025?logo=gitee&logoColor=F16061)](https://wuxingzzz.top/)
   [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)](https://wuxingzzz.top/)
-  [![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=plastic&logo=gitlab)](https://wuxingzzz.top/)
   [![Linux](https://img.shields.io/badge/-Linux-F16061?logo=linux&logoColor=000)](https://wuxingzzz.top/)
   [![Git Extensions](https://img.shields.io/badge/-Git%20Extensions-green?logo=git%20extensions&logoColor=DE3929)](https://wuxingzzz.top/)
   [![Nodejs](https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white)](https://wuxingzzz.top/)
