@@ -29,6 +29,7 @@ I love to talk on trending ⚡ technology ⚡, stay hungry stay foolish.
   [![element](https://img.shields.io/badge/Element-0DBD8B?logo=element&logoColor=white)](https://wuxingzzz.top/)
   [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white)](https://wuxingzzz.top/)
   [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=css3)](https://wuxingzzz.top/)
+  [![Postman](https://img.shields.io/badge/-Postman-7A1FA2?logo=postman&logoColor=FC8019)](https://wuxingzzz.top/)
 
 - 🌱 I’m currently learning:
   [![Sass](https://img.shields.io/badge/Sass-CC6699?&logo=sass&logoColor=white)](https://wuxingzzz.top/)
