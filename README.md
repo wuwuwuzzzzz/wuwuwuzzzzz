@@ -77,7 +77,7 @@ Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/wuwuwuzz
 </p>
 
 
-<h4>Here are some [🦜 party parrots](https://cultofthepartyparrot.com):</h4>
+<h4>Here are some 🦜 party parrots:</h4>
 
 <div>
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
