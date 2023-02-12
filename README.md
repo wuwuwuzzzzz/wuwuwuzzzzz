@@ -32,8 +32,6 @@ I love to talk on trending ⚡ technology ⚡, stay hungry stay foolish.
   [![Xcode](https://img.shields.io/badge/Xcode-007ACC?logo=Xcode&logoColor=white)](https://wuxingzzz.top/)
   [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://wuxingzzz.top/)
   [![element](https://img.shields.io/badge/Element-0DBD8B?logo=element&logoColor=white)](https://wuxingzzz.top/)
-  [![React Native](https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB)](https://wuxingzzz.top/)
-  [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=plastic&logo=postgresql)](https://wuxingzzz.top/)
   [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white)](https://wuxingzzz.top/)
   [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=css3)](https://wuxingzzz.top/)
 
