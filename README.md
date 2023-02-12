@@ -44,6 +44,7 @@ Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/wuwuwuzz
 
 <h4>Skills and Tools: </h4>
 <p align="left">
+	<img style="margin-bottom: 10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50">
 	<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/html5.png" alt=html5 width="60" height="60"/> 
 	<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/css3.png" alt=css3 width="60" height="60"/> 
 	<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/bootstrap.png" alt=bootstrap width="60" height="60"/>
@@ -70,6 +71,7 @@ Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/wuwuwuzz
   <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/ubuntu.png" alt=heroku width="60" height="60"/>
   <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/vsc.png" alt=heroku width="60" height="60"/>
   <img style="margin: auto;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="50" height="50">
+  <img src="https://camo.githubusercontent.com/ef340e1dac9f116923a100743a63bc94519945bebe3b65f2a047eecd7e34ab64/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6865786f696f2f6865786f696f2d69636f6e2e737667" alt="hexo" width="60" height="60" style="margin: auto;">
 </p>
 
 
