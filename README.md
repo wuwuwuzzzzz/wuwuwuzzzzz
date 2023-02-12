@@ -3,6 +3,8 @@
 
 I love to talk on trending ⚡ technology ⚡, stay hungry stay foolish.
 
+<a href="#"><img align="right" src="https://github.com/blackcater/blackcater/raw/main/images/banner.gif" width="200 " height="200" /></a>
+
 - 🚀 I use daily:
   [![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white)](https://wuxingzzz.top/)
   [![Spring](https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white)](https://wuxingzzz.top/)
