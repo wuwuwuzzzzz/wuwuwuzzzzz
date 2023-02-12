@@ -74,7 +74,7 @@ Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/wuwuwuzz
   <img src="https://camo.githubusercontent.com/ef340e1dac9f116923a100743a63bc94519945bebe3b65f2a047eecd7e34ab64/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6865786f696f2f6865786f696f2d69636f6e2e737667" alt="hexo" width="60" height="60" style="margin: auto;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="60" height="60" style="margin: auto;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="60" height="60" style="margin: auto;">
-  <img src="https://camo.githubusercontent.com/8b9fd4b3da512f7b042a866f2281f950db69a21c6e274089524f2796012bc59f/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f6e67696e782d6f726967696e616c2e737667" alt="Nginx" height="50" width="50" style="max-width: 100%;">
+  <img src="https://camo.githubusercontent.com/8b9fd4b3da512f7b042a866f2281f950db69a21c6e274089524f2796012bc59f/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f6e67696e782d6f726967696e616c2e737667" alt="Nginx" height="60" width="60" style="max-width: 100%;">
 </p>
 
 
