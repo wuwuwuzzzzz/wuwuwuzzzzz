@@ -1,4 +1,5 @@
-<h1>Hi 🎉 Welcome to wuwuwuzzzzz's Github Homepage!</h1><img align="right" src="https://github.com/raghavk16/raghavk16/raw/master/octo.gif" alt="GitHub Logo" height="50" width="50" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+<h1 width="80%">Hi 🎉 Welcome to wuwuwuzzzzz's Github Homepage!</h1>
+<img align="right" src="https://github.com/raghavk16/raghavk16/raw/master/octo.gif" alt="GitHub Logo" height="50" width="50" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 <link rel="stylesheet" type="text/css" href="./beautiful.css">
 
 I love to talk on trending ⚡ technology ⚡, stay hungry stay foolish.
