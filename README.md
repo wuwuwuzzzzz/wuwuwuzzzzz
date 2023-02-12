@@ -16,8 +16,6 @@ I love to talk on trending ⚡ technology ⚡, stay hungry stay foolish.
   [![MySQL](https://img.shields.io/badge/MySQL-005C84?logo=mysql&logoColor=white)](https://wuxingzzz.top/)
 
 - 💻 I work using:
-  [![IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?&logo=intellij-idea&logoColor=white)](https://wuxingzzz.top/)
-  [![WebStorm](https://img.shields.io/badge/WebStorm-000000?logo=WebStorm&logoColor=white)](https://wuxingzzz.top/)
   [![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)](https://wuxingzzz.top/)
   [![Gitee](https://img.shields.io/badge/-Gitee-A80025?logo=gitee&logoColor=F16061)](https://wuxingzzz.top/)
   [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)](https://wuxingzzz.top/)
@@ -36,7 +34,6 @@ I love to talk on trending ⚡ technology ⚡, stay hungry stay foolish.
   [![Sass](https://img.shields.io/badge/Sass-CC6699?&logo=sass&logoColor=white)](https://wuxingzzz.top/)
   [![Blog](https://img.shields.io/badge/Blogger-FF5722?logo=blogger&logoColor=white)](https://wuxingzzz.top/)
   [![React Native](https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB)](https://wuxingzzz.top/)
-  [![Kubernetes](https://img.shields.io/badge/-Kubernetes-F5F5F5?logo=Kubernetes&logoColor=316CE6)](https://wuxingzzz.top/)
   [![Webpack](https://img.shields.io/badge/-webpack-2B3A42?logo=webpack&logoColor=75AFCC)](https://wuxingzzz.top/)
   [![Docker](https://img.shields.io/badge/docker-20232A?logo=docker&logoColor=61DAFB)](https://wuxingzzz.top/)
   
