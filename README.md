@@ -73,6 +73,7 @@ Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/wuwuwuzz
   <img style="margin: auto;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="50" height="50">
   <img src="https://camo.githubusercontent.com/ef340e1dac9f116923a100743a63bc94519945bebe3b65f2a047eecd7e34ab64/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6865786f696f2f6865786f696f2d69636f6e2e737667" alt="hexo" width="60" height="60" style="margin: auto;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="60" height="60" style="margin: auto;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="60" height="60" sstyle="margin: auto;">
 </p>
 
 
