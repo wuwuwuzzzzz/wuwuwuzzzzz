@@ -38,7 +38,7 @@ I love to talk on trending ⚡ technology ⚡, stay hungry stay foolish.
   [![Webpack](https://img.shields.io/badge/-webpack-2B3A42?logo=webpack&logoColor=75AFCC)](https://wuxingzzz.top/)
   [![Docker](https://img.shields.io/badge/docker-20232A?logo=docker&logoColor=61DAFB)](https://wuxingzzz.top/)
   
-Welcome, You are my [![Visitor Count](https://profile-counter.glitch.me/wuwuwuzzzzz/count.svg)](https://wuxingzzz.top/) visitor, Thank You!🎉🎉
+Welcome, You are my <img src="https://profile-counter.glitch.me/wuwuwuzzzzz/count.svg" style="margin-bottom: -10px"> visitor, Thank You!🎉🎉
 
 [<span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wuwuwuzzzzz&layout=compact" height=145/></span><span><img src="https://github-readme-stats.vercel.app/api?username=wuwuwuzzzzz&count_private=true&show_icons=true" height=145/></span>](https://wuxingzzz.top/)
 
